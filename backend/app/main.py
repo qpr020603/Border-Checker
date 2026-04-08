@@ -1,5 +1,5 @@
 from fastapi import FastAPI #과제를 위해 추가한 주석입니다.
-
+#이번엔 main branch에 테스트 시나리오를 위해 생성한 주석입니다.
 from app.api.evaluate import router as evaluate_router
 from app.api.merge import router as merge_router
 from app.api.packs import router as packs_router
