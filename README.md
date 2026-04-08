@@ -19,3 +19,4 @@ uvicorn app.main:app --reload
 source .venv/bin/activate
 
 과제용 내용 추가
+3way 주석 추가
