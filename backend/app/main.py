@@ -1,5 +1,5 @@
 from fastapi import FastAPI #과제를 위해 추가한 주석입니다.
-
+#충돌 시나리오 테스트를 위한 과제용 주석입니다.
 from app.api.evaluate import router as evaluate_router
 from app.api.merge import router as merge_router
 from app.api.packs import router as packs_router
